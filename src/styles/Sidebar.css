@@ -1,0 +1,7 @@
+.Sidebar {
+    width: 250px;
+    position: fixed;
+}
+.Content {
+    margin-left: 250px;
+}
